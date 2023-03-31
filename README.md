@@ -7,6 +7,6 @@ Instruction manual: Download the bat file and run it as an Administrator. Go to 
 
 
 How does it work? 
-Microsoft has created a code (KMS) to activate any edition of Windows for workstations (a certain Windows Server). There is a special key for this program on their website (https://docs.microsoft.com/windows-server/get-started/kms-client-activation-keys). Therefore, you can activate your Windows on the principle of an activator, but with a guarantee that it is virus-free. 
+Microsoft has created a code (KMS) to activate any edition of Windows for workstations (a certain Windows Server). There is a special key for this program on their website (https://docs.microsoft.com/windows-server/get-started/kms-client-activation-keys). Therefore, you can activate your Windows on the principle of an activator, but with a guarantee that it is virus-free, so u can activate windows yourself, via cmd as Administrator using the code from the file "ACTIVATION IF YOU THINK THAT I AM A BAD MAN", although you can view the contents of bat files in GitHub, but I created this file for convenience. Thanks all!
 
 SUBSCRIBE TO FISPECKT!
